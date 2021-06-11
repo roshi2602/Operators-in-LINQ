@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\LINQ to objects2\LINQ to objects2\bin\Debug\LINQ to objects2.exe.config
+C:\Users\lenovo\source\repos\LINQ to objects2\LINQ to objects2\bin\Debug\LINQ to objects2.exe
+C:\Users\lenovo\source\repos\LINQ to objects2\LINQ to objects2\bin\Debug\LINQ to objects2.pdb
+C:\Users\lenovo\source\repos\LINQ to objects2\LINQ to objects2\obj\Debug\LINQ operators.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LINQ to objects2\LINQ to objects2\obj\Debug\LINQ to objects2.exe
+C:\Users\lenovo\source\repos\LINQ to objects2\LINQ to objects2\obj\Debug\LINQ to objects2.pdb
+C:\Users\lenovo\source\repos\LINQ to objects2\LINQ to objects2\obj\Debug\LINQ operators.csproj.AssemblyReference.cache
